@@ -21,7 +21,7 @@ const links = [
 	{
 		id: 3,
 		title: "博客",
-		url: "/blog",
+		url: "https://bg-blog.vercel.app/",
 	},
 	{
 		id: 4,
@@ -36,7 +36,7 @@ const links = [
 	{
 		id: 6,
 		title: "控制面板",
-		url: "/dashboard",
+		url: "https://bg-personalblog.sanity.studio/desk",
 	},
 ];
 
