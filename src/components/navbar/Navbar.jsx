@@ -20,7 +20,7 @@ const links = [
     {
         id: 3,
         title: "博客",
-        url: "https://bg-blog.vercel.app/",
+        url: "https://blackishgreen.vercel.app/",
     },
     {
         id: 4,
